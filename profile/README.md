@@ -1,6 +1,8 @@
 ## turel
 
-Turel is a leading [Discord](https://discord.gg) bot for **economy** and **leveling**
+Turel is a leading [Discord](https://discord.gg) bot for **economy** and **leveling**. 
+
+We are affilated with [biased-ts](https://github.com/biased-ts).
 
 Interested in contributing? Head over to the `bot` repository to do so!
 
